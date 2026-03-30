@@ -46,7 +46,7 @@ C'est une distribution Hadoop open-source riche en sécurité et prête pour l'e
 
 Il s'agit d'une architecture ouverte utilisée pour stocker et traiter des données complexes et à grande échelle. Il est composé de nombreux projets de l'Apache Software Foundation (ASF), dont __Apache Hadoop__, et est conçu spécifiquement pour répondre aux exigences des entreprises. Hortonworks était une société indépendante jusqu'en 2019, date à laquelle elle a fusionné avec Cloudera. Aujourd'hui, Hortonworks est une filiale de Cloudera, Inc.
 
-![alt text](image.png)
+![alt text](figures/image.png)
 
 #### Exigences en matière de matériel
 

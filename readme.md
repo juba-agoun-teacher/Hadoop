@@ -13,8 +13,9 @@
 ## 1. Installation de l’outil *Virtual Box* et déploiement de la VM *Sandbox HDP*
 En général, les outils de virtualisation offrent une interface graphique pour gérer les machine virtuelles. À travers l’interface graphique, vous pouvez spécifier le nombre de CPU, la quantité de mémoire, de disque, les accès réseaux, le système d'exploitation. Indiquez où se trouve l'ISO de l'OS.
 
-### 1. Commencez par l’installation de Virtual Box [Cliquez ici](https://moodle.univ-lyon2.fr/mod/resource/view.php?id=232575)
+### 1. Commencez par l’installation de Virtual Box 
 
+> ⚠️Verifier que c'est bien installer dans le cas des machines de l'IUT.
 
 *Oracle VM VirtualBox*, anciennement connu sous le nom de __VirtualBox__, est un logiciel libre de virtualisation créé par la société Innotek (rachetée par Sun Microsystems et aujourd’hui publié par Oracle). Il permet de créer et gérer des machines virtuelles sur un ordinateur physique. Voici les principaux concepts à connaître :
 
@@ -59,14 +60,12 @@ Il s'agit d'une architecture ouverte utilisée pour stocker et traiter des donn�
         - pour HDP 2.5.0
     - 65-75 GiB
         - pour HDP 2.6.5
-    - 80-100 GiB
-        - pour HDP 3.0.1
 
 ### 2. Installation de HDP Sandbox
 
 #### 2.1. Téléchargement de HDP Sandbox
 
-Vous trouverez les liens de téléchargement de l'Environnement de travail au format .ova en fonction de l'hyperviseur choisi. Si vous utilisez VirtualBox, le téléchargement se fait ici. Ci-dessous le lien de téléchargement de la version 2.6.5 de [HDP Sandbox](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_vmware_180622.ova).
+Vous trouverez les liens de téléchargement de l'Environnement de travail au format .ova en fonction de l'hyperviseur choisi. Si vous utilisez VirtualBox, le téléchargement se fait ici. Ci-dessous le lien de téléchargement de la version 2.6.5 de [HDP Sandbox](https://archive.cloudera.com/hwx-sandbox/hdp/hdp-2.6.5/HDP_2.6.5_virtualbox_180626.ova).
 
 #### 2.2. Installation de l'Environnement de travail
 

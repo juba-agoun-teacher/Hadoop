@@ -302,6 +302,9 @@ Nous partons sur l'hypothèse que vous utilisez la version 2.6.5 de Hadoop ; si 
 
 ### 4.1. Préparation de la vm (MrJob, Python ...)
 
+⚠️ **Si vous rencontrez des soucis dans les deux sous section qui suivent** 
+Vous pouvez vous aider avec ce piste [hint](Erreur_q_4_1_1.md) 
+
 #### 4.1.1. Mise à jour de la SandBox HDP
 
 La sandbox vient en une mise à jour outdate et on doit mettre la mettre à jour pou qu'on puisse récuperer des version de python à jour.
